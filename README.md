@@ -1,2 +1,2 @@
 # practiceLab
-this file creates a lab
+this file creates in the lab
